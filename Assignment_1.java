@@ -44,7 +44,7 @@ public class Main {
         textbook.author = "jp";
         textbook.price = 120.00;
         textbook.ISBN = "ABC-12345";
-        textbook.stock = 0; // Currently out of stock
+        textbook.stock = 0;//stock null
         
         
 
